@@ -47,6 +47,7 @@
   "devDependencies": {
     "@commitlint/cli": "^13.1.0",
     "@commitlint/config-conventional": "^13.1.0",
+    "@types/qs": "^6.9.7",
     "@types/react": "^17.0.19",
     "fork-ts-checker-webpack-plugin": "^6.3.2",
     "husky": "^7.0.2",
