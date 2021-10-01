@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { List } from "./list";
 import { SearchPanel } from "./search-panel";
-import { cleanObject, useDebounce } from "../util/index";
+import { cleanObject, useDebounce } from "../../util/index";
 import qs from "qs";
 
 const apiUrl = process.env.REACT_APP_API_URL;
